@@ -1,0 +1,6 @@
+{
+  "name": "My Application",
+  "description": "App for verifying core systems configuration and Kotlin build integrity",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
